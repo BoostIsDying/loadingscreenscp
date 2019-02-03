@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Excel Servers";
+var l_serverName = "";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -55,7 +55,7 @@ var l_bgVideo = false;
 // Just make sure they are using webm VP8 format 
 // (Place the videos in the backgrounds/videos folder)
 // (You can also use external URL)
-var l_background = "bluefall.webm";
+var l_background = "";
 
 // (Image-background only)
 // Enable map-based background image?
@@ -64,7 +64,7 @@ var l_background = "bluefall.webm";
 // Also, the image needs to be in .jpg format
 // E.g: gm_flatgrass.jpg, gm_construct.jpg, rp_downtown_v4c_v2.jpg
 // 'true' or 'false'
-var l_bgImageMapBased = true;
+var l_bgImageMapBased = false;
 
 // (Image-background only)
 // Place one or more images
