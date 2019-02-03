@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "logo.png";
+var l_serverImage = "";
 
 // Center logo?
 // 'true' or 'false'
@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "";
+var l_serverName = "Excel Servers";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -64,7 +64,7 @@ var l_background = "bluefall.webm";
 // Also, the image needs to be in .jpg format
 // E.g: gm_flatgrass.jpg, gm_construct.jpg, rp_downtown_v4c_v2.jpg
 // 'true' or 'false'
-var l_bgImageMapBased = false;
+var l_bgImageMapBased = true;
 
 // (Image-background only)
 // Place one or more images
